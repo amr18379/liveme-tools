@@ -1,7 +1,5 @@
 # LiveMe Tools
 
-*This project for the most part has been abandoned and the code is being left here for reference and use in future apps.  A new fork/version of this is available at [LiveMe Toolkit Repo](https://github.com/polydragon/liveme-toolkit).*
-
 ***It is recommended that if you do wish to use the LiveMe Tools, download a 6.x.x release for now as the 7.x.x releases are unstable.***
 
 ### Build Status
