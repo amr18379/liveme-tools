@@ -1,6 +1,6 @@
 # LiveMe Tools
 
-***It is recommended that if you do wish to use the LiveMe Tools, download a 6.x.x release for now as the 7.x.x releases are unstable.***
+***It is recommended that if you do wish to use the LiveMe Tools, download a 6.x.x release for now as development on the 7.x.x branch has been suspended.***
 
 ### Build Status
 **Windows:** [![Build status](https://ci.appveyor.com/api/projects/status/al0lo5cr41ssqd74/branch/master?svg=true)](https://ci.appveyor.com/project/thecoder75/liveme-tools/branch/master) **macOS/Linux:** [![Build Status](https://travis-ci.org/thecoder75/liveme-tools.svg?branch=master)](https://travis-ci.org/thecoder75/liveme-tools)
