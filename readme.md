@@ -1,6 +1,9 @@
 # LiveMe Tools
 
-***It is recommended that if you do wish to use the LiveMe Tools, download a 6.x.x release for now as development on the 7.x.x branch has been suspended.***
+**This project has been replaced by the [LiveMe Pro Tools](https://github.com/thecoder75/liveme-pro-tools).**
+
+**The 6.x.x branch is considered the last stable branch.**
+**THe 7.x.x branch is considered to be in the beta stage.**
 
 ### Build Status
 **Windows:** [![Build status](https://ci.appveyor.com/api/projects/status/al0lo5cr41ssqd74/branch/master?svg=true)](https://ci.appveyor.com/project/thecoder75/liveme-tools/branch/master) **macOS/Linux:** [![Build Status](https://travis-ci.org/thecoder75/liveme-tools.svg?branch=master)](https://travis-ci.org/thecoder75/liveme-tools)
@@ -15,7 +18,7 @@ This is an Electron-based desktop app for Windows, macOS and Ubuntu Linux design
 - Import and Export Favorites lists
 - Import a list of Replay URLs or VideoIDs for downloading
 - Ability to add a single URL
-- Uses a custom chunk downloader and [FFMPEG](/thecoder75/liveme-tools/blob/master/docs/ffmpeg.md) to download replays
+- Uses a custom chunk downloader and FFMPEG to download replays
 - and much more!
 
 ## Getting Started
@@ -24,9 +27,7 @@ This is an Electron-based desktop app for Windows, macOS and Ubuntu Linux design
 
 [![All Downloads](https://img.shields.io/github/downloads/thecoder75/liveme-tools/total.svg)](https://github.com/thecoder75/liveme-tools/releases)
 
-*The 7.0.x releases is buggy and problematic for some users and therefore its is recommended to download the [6.2.1 stable release](https://github.com/thecoder75/liveme-tools/releases/tag/6.2.1) for now.*
-
-You can still download the [latest release](https://github.com/thecoder75/liveme-tools/releases/latest) if you want to check out the latest features and more.
+*Click the button above to go to the downloads.*
 
 ### Building from Scratch
 
